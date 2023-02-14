@@ -1,3 +1,4 @@
+#Position Codes
 dic_position = {
     0: "Designated Hitter",
     1: "Pitcher",
@@ -11,6 +12,7 @@ dic_position = {
     9: "Right Field"
 }
 
+#Position Abbreviations
 dic_posAbbrev = {
     "Designated Hitter": "DH",
     "Pitcher": "P",
@@ -24,11 +26,13 @@ dic_posAbbrev = {
     "Right Field": "RF"
 }
 
+#Half Innings
 dic_inning = {
     0: "Top",
     1: "Bottom"
 }
 
+#Outcome Abbreviations
 dic_outcome = {
                "1B": "Single",
                "2B": "Double",
